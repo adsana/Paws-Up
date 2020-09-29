@@ -3,7 +3,7 @@
 <img alt="npm" src="https://img.shields.io/npm/v/enquirer?style=flat-square"> <img alt="npm" src="https://img.shields.io/npm/v/jest?style=flat-square">  <img alt="NPM" src="https://img.shields.io/npm/l/express?style=flat-square">  <img alt="David" src="https://img.shields.io/david/bpr59/Employee-Tracker-HW?style=flat-square">  <img alt="node-current" src="https://img.shields.io/node/v/mysql?style=flat-square">
     
 ## Description
-Final Bootcamp project in which we needed to develop a complete App using the MERN stack. Secondary requirement was to use a CSS framework other than Bootstrap
+Final Bootcamp project in which we needed to develop a complete App using the MERN stack. Secondary requirement was to use a CSS framework other than Bootstrap...
 
 ## Table of Content
 - [usage](#usage)
